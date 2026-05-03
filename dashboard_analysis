@@ -1,0 +1,98 @@
+Project Overview
+  This project presents an interactive 'E-Commerce Sales Dashboard' built using Power BI. The objective of this dashboard is to analyze sales performance, identify trends, and generate actionable business insights.
+  The dashboard helps stakeholders track key metrics such as revenue, product sales, and customer engagement, enabling data-driven decision-making.
+
+Key Performance Indicators (KPIs)
+ * YTD Sales: $2.18M
+ * QTD Sales: $811.09K
+ * YTD Products Sold: 27.75K
+ * YTD Reviews: 19.42M
+Insight: The business shows strong overall performance with high customer engagement, indicating good product reach and visibility.
+
+---
+Sales Analysis
+
+Sales by Month
+* Sales show a steady upward trend throughout the year
+* Significant growth observed in:
+
+  * September
+  * November & December
+Insight:* This pattern indicates seasonal demand, likely driven by festive and holiday sales.
+
+---
+Sales by Week
+
+* Weekly sales remain consistent initially
+* Sharp increase observed after Week 40
+* Peak sales recorded towards year-end
+
+Insight: Q4 is the most critical revenue-generating period for the business.
+
+---
+Category Performance
+
+Top contributing categories:
+
+*  Men Shoes (Highest Sales)
+*  Men Clothes
+*  Toys
+*  Mobile & Accessories
+
+Insight:  Fashion-related categories dominate sales, suggesting higher demand and customer preference in this segment.
+---
+Top Products Analysis
+
+Top Products by Sales
+ * A small number of products contribute significantly to total revenue
+ * Highest-performing product generates approx. $34K+
+   Insight: Revenue concentration indicates the importance of top-performing products.
+
+Top Products by Reviews
+  * Products like SanDisk dominate customer reviews
+  * High review count reflects strong customer trust and popularity
+Insight: Products with more reviews tend to have higher conversion rates.
+
+Dashboard Features
+
+* Interactive filters:
+  * Product Category
+  * Quarter (Qtr)
+
+* Dynamic visuals:
+  * Line charts
+  * Bar charts
+  * KPI cards
+
+* Clean and user-friendly layout
+
+Key Business Insights
+* Q4 contributes the highest sales → focus marketing campaigns here
+* Fashion categories are top performers → expand inventory
+* High-review products drive engagement → leverage for promotions
+* Overall positive sales trend → business growth is strong
+
+Recommendations
+* Increase marketing efforts during festive and year-end seasons
+* Focus on high-performing categories like fashion
+* Promote top-reviewed products for better conversion
+* Improve performance of low-selling categories
+
+ Tools & Technologies Used
+* Power BI – Data Visualization
+* DAX – KPI calculations (YTD, QTD)
+* Power Query – Data transformation & cleaning
+
+ My Contribution
+* Designed and developed the complete dashboard
+* Created KPIs using DAX formulas
+* Built interactive filters and visuals
+* Performed data analysis and extracted insights
+* Structured the dashboard for better user experience
+
+Conclusion
+
+* This dashboard provides a clear and interactive view of e-commerce performance. It helps in identifying trends, understanding customer behavior, and making strategic business decisions.
+
+
+This dashboard provides a clear and interactive view of e-commerce performance. It helps in identifying trends, understanding customer behavior, and making strategic business decisions.
